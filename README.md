@@ -1,6 +1,6 @@
 # Dice App
 
-A new Flutter project.
+A New Dice-App.
 
 ## Getting Started
 
